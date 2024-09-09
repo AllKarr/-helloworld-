@@ -4,7 +4,7 @@
 
 ## Navigering.
 - `pwd`: Visar nuvarande arbetskatalog.
-- `Is`: Visar innehhåll i mapp.
+- `Is`: Visar innehåll i mapp.
 - `cd`: Navigera till en annan mapp
 
 ## Hantering av mappar & filer.
