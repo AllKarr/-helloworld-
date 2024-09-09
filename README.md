@@ -2,8 +2,8 @@
 
 # Lärdom från Terminal och Git
 
-## Navigering. (Källa: Föreläsning 1.)
-- `pwd`: Visar nuvarande arbetskatalog. Källa: Föreläsning 1.
+## Navigering.
+- `pwd`: Visar nuvarande arbetskatalog.
 - `Is`: Visar innehhåll i mapp.
 - `cd`: Navigera till en annan mapp
 
